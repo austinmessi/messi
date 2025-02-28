@@ -1,0 +1,181 @@
+.header {
+  background-color: #095885;
+  color: white;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+.header a:hover {
+  color: black;
+}
+.row {
+  display: flex;
+}
+.col-1 {
+  flex: 8.33%;
+}
+.col-2 {
+  flex: 16.66%;
+}
+.col-3 {
+  flex: 25%;
+}
+.col-4 {
+  flex: 33.33%;
+}
+
+.col-5 {
+  flex: 41.66%;
+}
+
+.col-6 {
+  flex: 50%;
+}
+.col-7 {
+  flex: 58.33%;
+}
+.col-8 {
+  flex: 66.66%;
+}
+.col-9 {
+  flex: 75%;
+}
+.col-10 {
+  flex: 83.33%;
+}
+.col-11 {
+  flex: 91.66%;
+}
+.col-12 {
+  flex: 12%;
+}
+.right {
+  text-align: right;
+}
+.container {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.header1 {
+  background-color: white;
+  color: black;
+}
+.letter-spacing {
+  letter-spacing: 10px;
+}
+body {
+  background-color: aliceblue;
+}
+.menu {
+  list-style: none;
+  text-align: center;
+}
+.menu li {
+  display: inline;
+  padding: 10px;
+}
+.menu li a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+.social {
+  padding: 20px;
+  text-align: right;
+}
+.social a {
+  padding: 10px;
+  font-size: 25px;
+}
+.menu a:hover {
+  color: rgb(212, 21, 21);
+}
+.hero {
+  background: url(banner.jpg);
+  background-size: cover;
+  height: 650px;
+  color: white;
+  text-align: center;
+}
+
+.img-fluid {
+  width: 100%;
+}
+.pd-10 {
+  padding: 15px;
+}
+.card {
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 7px 5px 10px 0px rgba(20, 98, 154, 0.716);
+  text-align: center;
+  background-color: azure;
+  color: black;
+}
+.card:hover {
+  transform: scale(1.05);
+  color: #095885;
+}
+.card img {
+  height: 250px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.table {
+  text-align: center;
+  width: 100%;
+}
+.trbg {
+  background-color: grey;
+}
+.shoes {
+  color: black;
+  text-align: center;
+}
+.tdbg {
+  background-color: lightgray;
+}
+.price {
+  text-align: center;
+}
+.keypoints {
+  text-align: center;
+}
+.footer {
+  background-color: #095885;
+  color: white;
+  margin-top: 30px;
+}
+.footer a {
+  color: white;
+}
+.right {
+  text-align: right;
+}
+.hero1 {
+  background: url(banner.jpg);
+  background-size: cover;
+  height: 650px;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+}
+.hero1 h1 {
+  padding-top: 10px;
+}
+.form-control {
+  width: 70%;
+  height: 25px;
+}
+.btn {
+  width: 50%;
+  background-color: aliceblue;
+}
+.mb-10 {
+  padding: 10px;
+}
+.center {
+  text-align: center;
+}
